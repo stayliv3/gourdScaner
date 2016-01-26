@@ -1,3 +1,13 @@
+修改自gourdScan
+
+
+change:
+
+修改判断是否存在sql注入的逻辑
+添加https支持.
+
+
+
 # GourdScan
 
 被动式注入检测工具
